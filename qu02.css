@@ -1,0 +1,16 @@
+.one {
+    display: flex;
+    background-color: #333;
+    padding: 10px;
+    border-style: groove;
+    border-color: white;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+body{
+    background-color: green;
+}
+.search button{
+    background-color:  #f06535;
+}
